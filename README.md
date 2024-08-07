@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 
 
-[![Project516's GitHub stats](https://github-readme-stats.vercel.app/apiProject516=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiProject516=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Project516/Project516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
