@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java
 
 
-[![Project516's GitHub stats](https://read-me-plum.vercel.app/apiProject516=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://read-me-plum.vercel.app/api/top-langs/Project516=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Project516's GitHub stats](https://read-me-plum.vercel.app/apiProject516anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://read-me-plum.vercel.app/api/top-langs/Project516anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Project516/Project516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
