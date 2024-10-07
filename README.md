@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning java
 
-[![Anurag's GitHub stats](https://github-readme-stats-plum-kappa-56.vercel.app/api?username=project516)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=project516)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Project516/Project516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
