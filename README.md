@@ -1,6 +1,7 @@
 # Hello, I'm project516
 
-<a href="https://github.com/project516"><img height=200 align="center" src="https://reallycoolgithubreadme.vercel.app/api?username=project516" /></a>
+[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=project516&theme=dark#gh-dark-mode-only)](https://github.com/project516#gh-dark-mode-only)
+[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=project516&theme=default#gh-light-mode-only)](https://github.com/project516#gh-light-mode-only)
 <br><br>
 <a href="https://github.com/project516"><img src="https://reallycoolgithubreadmestreakstats.vercel.app/?user=Project516&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
