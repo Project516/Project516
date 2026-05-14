@@ -5,24 +5,17 @@
 <br><br>
 <a href="https://github.com/project516"><img src="https://reallycoolgithubreadmestreakstats.vercel.app/?user=Project516&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
-### A passionate developer
+### Hobbyist developer
 
-- I'm currently learning **The C Programming Language**
+- I'm currently learning **C**
 
 - I'm looking to collaborate on **open source projects**
 
 - Ask me about **Linux!**
 
-- How to reach me **project516@project516.dev**
-
 - Fun fact: **I daily drive Fedora**
 
 - I regularly write articles on **[https://project516.dev/blog](https://project516.dev/blog)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Project516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Project516" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
