@@ -1,31 +1,36 @@
-# Hello, I'm project516
+# Hey, I'm Project516
 
-[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=project516&theme=dark#gh-dark-mode-only)](https://github.com/project516#gh-dark-mode-only)
-[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=project516&theme=default#gh-light-mode-only)](https://github.com/project516#gh-light-mode-only)
-<br><br>
-<a href="https://github.com/project516"><img src="https://reallycoolgithubreadmestreakstats.vercel.app/?user=Project516&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+I build robots, CLI tools, and AI agent infrastructure. Open source everything.
 
-### Hobbyist developer
+**Currently open to software engineering internships** in robotics, embedded systems, or AI/agent tooling. Reach me through GitHub or [project516.dev](https://project516.dev).
 
-- I'm currently learning **C**
+---
 
-- I'm looking to collaborate on **open source projects**
+### What I work on
 
-- Ask me about **Linux!**
+- **FRC Robotics** — Software developer for [Spectrum 3847](https://github.com/Spectrum3847) (2026 season: [2026-Spectrum](https://github.com/Spectrum3847/2026-Spectrum)). Java/WPILib, swerve drive, state machines, vision, LED systems, CI/CD pipelines.
+- **AI Agent Tooling** — Built [offload](https://github.com/Project516/offload), a shell-based agent delegation framework that routes coding tasks to locally installed CLI agents (Codex, OpenCode, Grok) with automatic quota fallback.
+- **FRC API Clients** — Typed Dart clients for [The Blue Alliance](https://github.com/Project516/tba_client) and [Statbotics](https://github.com/Project516/statbotics_client) APIs. Also a pure-Dart [Firebase Firestore client](https://github.com/Project516/firestore_client) for platforms FlutterFire doesn't cover.
+- **Minecraft Containerization** — [sandbox-launcher](https://github.com/Project516/sandbox-launcher): run Minecraft in isolated Docker containers.
+- **FRC + AI Integration** — [frc-mcp-server](https://github.com/Project516/frc-mcp-server): an MCP server for FRC workflows.
 
-- Fun fact: **I daily drive Fedora**
+### Languages
 
-- I regularly write articles on **[https://project516.dev/blog](https://project516.dev/blog)**
+Java, C, C++, Python, Dart, TypeScript, Shell, C#, Rust
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash,docker,git,html,java,linux" />
-  </a>
-</p>
+### Tools & Platforms
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://project516.dev/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://project516.dev/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://project516.dev/snk/github-contribution-grid-snake.svg">
-</picture>
+Docker, Git, GitHub Actions, Linux (Fedora daily driver), WPILib, Firebase, Cloudflare
+
+---
+
+### Find me
+
+- **GitHub**: [github.com/Project516](https://github.com/Project516)
+- **Website**: [project516.dev](https://project516.dev)
+- **Blog**: [project516.dev/blog](https://project516.dev/blog)
+- **FRC Team**: [Spectrum 3847](https://github.com/Spectrum3847)
+
+---
+
+<img src="https://project516.dev/snk/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
